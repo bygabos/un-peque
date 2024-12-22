@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "ea6a8433-8385-3e7b-b282-311f2312a46c",
+    "name": "BySmall",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
